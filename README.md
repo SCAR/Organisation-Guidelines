@@ -14,7 +14,7 @@ This is the GitHub organisation page for the [Scientific Committee on Antarctic 
 
 ## Requesting a new repository
 
-To request a new repository, please [do so via the issues page](https://github.com/SCAR/Organisation-Guidelines/issues/new?template=new-repository-request.md).
+To request a new repository, please do so [via the issues page](https://github.com/SCAR/Organisation-Guidelines/issues/new?template=new-repository-request.md) or <a href="mailto:bdanis@ulb.ac.be?subject=SCAR GitHub repo request">by email</a>.
 
 ---
 
