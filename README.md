@@ -1,6 +1,6 @@
 # Organisation guidelines
 
-<img align="right" src="https://avatars1.githubusercontent.com/u/22830629?s=200&v=4" alt="SCAR logo" />
+<img align="right" style="max-width: 20%;" src="https://avatars1.githubusercontent.com/u/22830629?s=200&v=4" alt="SCAR logo" />
 
 This is the GitHub organisation page for the [Scientific Committee on Antarctic Research (SCAR)](https://www.scar.org/). Members of the SCAR community wishing to make use of this space should note the following guidelines:
 
