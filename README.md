@@ -16,7 +16,7 @@ This is the GitHub organisation page for the [Scientific Committee on Antarctic 
 
 ## Requesting a new repository
 
-To request a new repository, please do so [via the issues page](https://github.com/SCAR/Organisation-Guidelines/issues/new?template=new-repository-request.md) or by emailing ben<!-- a -->.<!--- b -->raymond -at- aad.gov.au.
+To request a new repository, please do so [via the issues page](https://github.com/SCAR/Organisation-Guidelines/issues/new?template=new-repository-request.md) or by emailing ben<!-- a -->.<!--- b -->raymond -at- aad.gov.au. Note that only **public** repositories can be hosted in this space (no private repos).
 
 ---
 
